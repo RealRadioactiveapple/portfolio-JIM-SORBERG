@@ -5,7 +5,7 @@
 ## Jim Sörberg
 I am a It security specialist, whit a passon for AI. I'm looking to expand my knowledge of AI in security and hopefully one day work with development in AI security.
 
-## GitHub Portfolio
+## GitHub Portfolio :computer:
 
 ------------------------
 [![pycon](assets/pylogo.png)Python Programming][Pyport]
